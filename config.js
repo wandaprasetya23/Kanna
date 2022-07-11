@@ -25,10 +25,10 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
+global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283813063969'] //ur owner number
-global.ownername = "FATURRAHMAN AFRIZAL"
-global.ytname = "https://tiktok.com/@gw.faturr" //ur yt chanel name
-global.socialm = "GitHub: Faturrbotz" //ur github or insta name
+global.owner = ['628975217200'] //ur owner number
+global.ownername = "© 𝚆𝚊𝚗𝚍𝚊 𝙲𝚊𝚔𝚎𝚙"
+global.ytname = "https://youtube.com/shorts/Pco1l5mk_q8?feature=share" //ur yt chanel name
+global.socialm = "GitHub: https://github.com/wandaprasetya23/Kanna" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "KannaBOT-MD" //ur bot name
-global.websitex = "https://tiktok.com/@gw.faturr" //ur website
+global.botname = "𝚂𝙰𝙽𝚂 𝙱𝙾𝚃" //ur bot name
+global.websitex = "https://instagram.com/end.prfct" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "KannaBOT-MD\n\n\n\n\n\n\ "
-global.author = "By FATURRAHMAN"
+global.packname = "\n\n\n\n\n\𝚠𝚊𝚗𝚍𝚊 𝚌𝚊𝚔𝚎𝚙n\ "
+global.author = "©𝚋𝚢𝚎 𝚆𝚊𝚗𝚍𝚊"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6283813063969'] //ur owner tag
-global.ownernummenu = ['6283813063969'] //ur owner number in menu and all
-global.watermark = "Created By © Faturr." //ur watermark
-global.botscript = "www.xnxx.com"
-global.linkz1 = "https://tiktok.com/@gw.faturr"
-global.linkz2 = "-"
+global.ownertag = ['628975217200'] //ur owner tag
+global.ownernummenu = ['628975217200'] //ur owner number in menu and all
+global.watermark = "𝚌𝚛𝚎𝚊𝚝 𝚏𝚒𝚕𝚎 𝚋𝚢𝚎 © 𝚆𝚊𝚗𝚍𝚊 𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕" //ur watermark
+global.botscript = "https://github.com/wandaprasetya23/Kanna"
+global.linkz1 = "https://chat.whatsapp.com/J6WuCY7cO6RKCdgTK11JWw"
+global.linkz2 = "https://chat.whatsapp.com/HOPgAs1lf93LSsjLL6y9tj"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -89,7 +89,7 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.lolhuman = "KaysaS"
+global.lolhuman = "kyah"
 global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -132,7 +132,7 @@ global.APIs = {
 
 // key
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'aebb07b72e40',
 }
 //menu logo maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
