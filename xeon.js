@@ -1,3 +1,3 @@
 {
-	"name": "Kanna Bot Multi Device"
+	"name": "Sans Bot Multi Device"
 }
