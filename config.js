@@ -49,7 +49,7 @@ global.location = "Indonesia" //ur location
 
 //bot bombdy
 global.botname = "𝚂𝙰𝙽𝚂 𝙱𝙾𝚃" //ur bot name
-global.websitex = "https://instagram.com/end.prfct" //ur website
+global.websitex = "https://instagram.com/wnd.prfct" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "\n\n\n\n\n\𝚠𝚊𝚗𝚍𝚊 𝚌𝚊𝚔𝚎𝚙n\ "
 global.author = "©𝚋𝚢𝚎 𝚆𝚊𝚗𝚍𝚊"
